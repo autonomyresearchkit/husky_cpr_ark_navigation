@@ -2,10 +2,10 @@ ark_config:
     max_fwd_linear_speed: 1.0
     max_rev_linear_speed: 1.0
     min_linear_speed: 0.05
-    max_linear_acceleration: 0.3
-    max_linear_deceleration: -0.3
+    max_linear_acceleration: 1.0
+    max_linear_deceleration: -1.0
     max_ang_speed: 1.0
-    max_ang_accel: 0.3
+    max_ang_accel: 1.0
     vehicle_length: 1.042
     vehicle_width: 0.661
     stopping_distance_1M: 0.3
